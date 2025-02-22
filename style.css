@@ -352,6 +352,10 @@ article {
 article .icon {
   cursor: default;
 }
+.inbox{
+  padding-top: 10% 
+  
+}
 
 /* PROJECTS SECTION */
 
